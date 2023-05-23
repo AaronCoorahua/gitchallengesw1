@@ -27,6 +27,7 @@ def signtalk():
     print("Este es el equipo Sign Talk")
     print("Pedro")
     print("Aaron")
+    
     print("Max")
 
 main()
